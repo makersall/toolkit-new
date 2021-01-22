@@ -9,12 +9,18 @@ navigation_links:
     link: 'about/'
   - name: Overview
     link: '/pages/10-intro/00-index.html'
-  - name: Strategies
-    link: '/pages/strategies.html'
-  - name: Make It Happen
-    link: '/pages/90-organize/00-index.html'
+  - name: Tools
+    link: '/pages/10-intro/00-index.html'
+  - name: Jobs & Training
+    link: '/pages/10-intro/00-index.html'
+  - name: Rethinking Makers
+    link: '/pages/10-intro/00-index.html'
+  # - name: Strategies
+    # link: '/pages/strategies.html'
+  # - name: Make It Happen
+    # link: '/pages/90-organize/00-index.html'
   - name: Makers All
     link: 'https://makersall.org'
 
 
-google_analytics: UA-139179554-1
+# google_analytics: UA-139179554-1
