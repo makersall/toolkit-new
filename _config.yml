@@ -1,0 +1,20 @@
+title: Makers All Toolkit
+author: Anders Schneiderman
+email: your-email@domain.com
+description:  Makers All Toolkit
+
+# Menu data for sitewide navigation
+navigation_links:
+  - name: About
+    link: 'about/'
+  - name: Overview
+    link: '/pages/10-intro/00-index.html'
+  - name: Strategies
+    link: '/pages/strategies.html'
+  - name: Make It Happen
+    link: '/pages/90-organize/00-index.html'
+  - name: Makers All
+    link: 'https://makersall.org'
+
+
+google_analytics: UA-139179554-1
