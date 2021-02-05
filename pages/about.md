@@ -1,6 +1,7 @@
 ---
 layout: content
 title: About Makers All
+image: glass-spheres-970093-pxh.jpg
 permalink: /about/
 ---
 

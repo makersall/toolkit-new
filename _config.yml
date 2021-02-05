@@ -7,18 +7,14 @@ description:  Makers All Toolkit
 navigation_links:
   - name: About
     link: 'about/'
-  - name: Overview
-    link: '/pages/10-intro/00-index.html'
   - name: Tools
-    link: '/pages/10-intro/00-index.html'
+    link: '/tools/'
   - name: Jobs & Training
-    link: '/pages/10-intro/00-index.html'
+    link: '/jobs-training'
   - name: Rethinking Makers
-    link: '/pages/10-intro/00-index.html'
-  # - name: Strategies
-    # link: '/pages/strategies.html'
-  # - name: Make It Happen
-    # link: '/pages/90-organize/00-index.html'
+    link: '/rethink/'
+  # - name: Overview
+    # link: '/pages/10-intro/00-index.html'
   - name: Makers All
     link: 'https://makersall.org'
 
