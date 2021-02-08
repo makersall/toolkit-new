@@ -6,3 +6,7 @@ permalink: /rethink/
 ---
 
 { NOTE: what I need to accomplish in this section is explaining my new approach, which broadens the concept of making.}
+
+Not "high skill" but...
+
+_* DRAFT * DRAFT * DRAFT * DRAFT * DRAFT *_

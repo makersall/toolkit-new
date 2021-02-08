@@ -9,14 +9,14 @@ navigation_links:
     link: 'about/'
   - name: Tools
     link: '/tools/'
-  - name: Jobs & Training
+  - name: Training & Opportunities
     link: '/jobs-training'
   - name: Rethinking Makers
     link: '/rethink/'
   # - name: Overview
     # link: '/pages/10-intro/00-index.html'
-  - name: Makers All
-    link: 'https://makersall.org'
+  # - name: Makers All
+    # link: 'https://makersall.org'
 
 
 # google_analytics: UA-139179554-1
