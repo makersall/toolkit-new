@@ -11,8 +11,8 @@ navigation_links:
     link: '/tools/'
   - name: Training & Opportunities
     link: '/jobs-training'
-  - name: Rethinking Makers
-    link: '/rethink/'
+  - name: Making It Happen
+    link: '/make-it-happen/'
   # - name: Overview
     # link: '/pages/10-intro/00-index.html'
   # - name: Makers All
