@@ -12,7 +12,7 @@ Although this approach is doable, it's extremely ambitious -- and it's not somet
 How can we help black, white, and brown families in their struggles to make a living today while also taking advantage of this once in a century opportunity to shape the direction of emerging tech and the economy -- especially in the next few years, when the direction of new tech is much more malleable?
 
 
-### A) Make Major Progress Now: Support the Green New Deal and Organizing Low-Wage Jobs
+## A) Make Major Progress Now: Support the Green New Deal and Organizing Low-Wage Jobs
 
 Although it's certainly worth trying to make tech jobs more accessible today, it's hard to see how we can change emerging tech fast enough to create lots of good paying jobs very quickly on a scale that would make a real difference in communities from Harlem to Harlan County.
 
@@ -20,7 +20,7 @@ But we don't need to. The best way for folks in tech to fundamentally transform 
 - Good green jobs created by a Green New Deal
 - Campaigns to raise the minimum wage and campaigns by low-wage workers to organize
 
-### B) Create Experiments Today That Build Towards Tomorrow
+## B) Create Experiments Today That Build Towards Tomorrow
 
 _I have a bunch of thoughts on what this might look like, but they're still pretty vague. For now, here are a few snippets._
 

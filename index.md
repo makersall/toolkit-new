@@ -3,7 +3,7 @@ title: Makers All Toolkit
 layout: home
 ---
 <img src="{{'/assets/images/makers-all-banner.png'  | relative_url }} ">
-_v1.1 (* DRAFT * DRAFT * DRAFT * DRAFT * DRAFT *)_
+_v2.1 (* DRAFT * DRAFT * DRAFT * DRAFT * DRAFT *)_
 
 ## The Opportunity
 
